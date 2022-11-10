@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "plan": "MA Supra",
+        "descripcion": "Accede a una cobertura superior con libre acceso a una amplia cartilla de profesionales, clínicas y sanatorios de primer nivel, sin topes, sin copagos y con reintegros.",
+        "precio": 7500,
+        "img": "MA-Supra.jpg"
+    },
+    {
+        "id": 2,
+        "plan":"MB Integral",
+        "descripcion":"Cobertura de alta calidad para exigentes, con una amplia cartilla de prestadores de primer nivel, servicios adicionales y con reintegros.",
+        "precio":2850,
+        "img": "MB-Integral.jpg"
+    },
+    {
+        "id": 3,
+        "plan": "MC Clasisic",
+        "descripcion": "El plan que se adapta a tus necesidades. Plan con copagos, con acceso a amplia cartilla de prestadores de primer nivel.",
+        "precio": 7500,
+        "img": "MC-Classic.jpg"
+    },
+    {
+        "id": 4,
+        "plan": "MT Centro",
+        "descripcion": "Accedés en forma exclusiva a los Centros Médicos MET, con turnos rápidos, atención personalizada y una amplia cartilla de especialidades y profesionales",
+        "precio": 7500,
+        "img": "MT-Centro.jpg"
+    },
+    {
+        "id": 5,
+        "plan": "MTI Internacion",
+        "descripcion": "Honorarios profesionales / Gastos de internación / Medicamentos / Material Descartable e insumos",
+        "precio": 7500,
+        "img": "MTI-Internacion.jpg"
+    }    
+]
