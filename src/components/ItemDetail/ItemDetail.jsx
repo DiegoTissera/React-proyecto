@@ -1,4 +1,6 @@
 import React from 'react';
+import ItemCount from '../ItemCount/ItemCount';
+
 
 const ItemDetail = ({producto}) => {
     return (
@@ -12,7 +14,7 @@ const ItemDetail = ({producto}) => {
                     <p className='card-text'>Modelo: {producto.descripcion}</p>
                     <p className='card-text'>Precio: ${producto.precio}</p>
                     {/*<p className='card-text'>Stock: {producto.stock}</p>*/}
-                    <button className="btn btn-dark">Agregar al carrito</button>
+                    <ItemCount stock = {producto.stock}/>
                 </div>
             </div>
         </div>
